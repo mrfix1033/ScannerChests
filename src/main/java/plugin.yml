@@ -1,0 +1,7 @@
+name: ScannerChests
+main: main
+version: 1
+author: mrfix1033
+commands:
+  scan: {}
+  next: {}
